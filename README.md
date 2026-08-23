@@ -1,12 +1,12 @@
 
 <div align="center">
 
-# 🌸 Tuğçe Keskin
+# 🌸Zeynep Tuğçe Keskin🌸
 
 ### Software Engineering Student · Full-Stack Developer
 
 <p>
-  Building clean, practical and user-focused web applications.
+Turning ideas into functional, modern and user-friendly web applications.
 </p>
 
 🌷 ───────────────────────────────────────── 🌷
