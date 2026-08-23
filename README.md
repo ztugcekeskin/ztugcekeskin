@@ -32,6 +32,7 @@ Currently, I'm working with **React, ASP.NET Core, PostgreSQL, and MongoDB** whi
 </p>
 
 🌸 Featured Projects
+
 🛍️ Full-Stack E-Commerce Platform
 
 A full-stack e-commerce application inspired by modern online shopping platforms, developed with React and ASP.NET Core.
