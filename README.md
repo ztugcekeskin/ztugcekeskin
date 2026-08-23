@@ -30,3 +30,24 @@ Currently, I'm working with **React, ASP.NET Core, PostgreSQL, and MongoDB** whi
 <p align="center">
   <i>Technologies and tools I use while building and learning.</i>
 </p>
+
+🌸 Featured Projects
+🛍️ Full-Stack E-Commerce Platform
+
+A full-stack e-commerce application inspired by modern online shopping platforms, developed with React and ASP.NET Core.
+
+**Tech Stack:**  
+`React` · `ASP.NET Core` · `PostgreSQL` · `MongoDB` · `Axios`
+
+**Key Features:**
+- 🔐 User registration and authentication
+- 👤 User profile management and profile photos
+- 🛍️ Product listing and product management
+- 🛒 Shopping cart and quantity management
+- 📦 Order and order item management
+- 💬 Real-time messaging between users
+- 🗄️ PostgreSQL and MongoDB database integration
+- 🔌 RESTful API integration
+
+
+
