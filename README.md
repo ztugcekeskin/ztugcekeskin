@@ -75,7 +75,7 @@ A full-stack e-commerce application inspired by modern online shopping platforms
   ♡ Thanks for visiting my profile! ♡
 
   <div align="center">
-  <img src="./assets/sleeping-cat.gif" width="50">
+  <img src="./assets/cat rainbow GIF.gif" width="75">
 </div>
 🌷 ───────────────────────────────────────── 🌷
 
