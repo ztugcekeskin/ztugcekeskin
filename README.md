@@ -54,8 +54,8 @@ A full-stack e-commerce application inspired by modern online shopping platforms
 
 <p align="center">
 
-<a href="www.linkedin.com/in/zeynep-tugce-keskin">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/zeynep-tugce-keskin/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/ztugcekeskin">
