@@ -20,3 +20,13 @@ Turning ideas into functional, modern and user-friendly web applications.
 I'm a Software Engineering student interested in full-stack web development and backend technologies. I enjoy building practical applications, learning new technologies, and turning ideas into functional software.
 
 Currently, I'm working with **React, ASP.NET Core, PostgreSQL, and MongoDB** while improving my skills in backend development, databases, and software architecture.
+
+🌷 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,dotnet,html,css,postgres,mysql,mongodb,git,github,vscode,visualstudio,figma" />
+</p>
+
+<p align="center">
+  <i>Technologies and tools I use while building and learning.</i>
+</p>
