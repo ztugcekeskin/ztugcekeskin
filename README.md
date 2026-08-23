@@ -63,3 +63,17 @@ A full-stack e-commerce application inspired by modern online shopping platforms
 </a>
 
 </p>
+
+<br>
+
+<div align="center">
+
+🌸 ───────────────────────────────────────── 🌸
+
+  ♡ Thanks for visiting my profile! ♡
+
+🌷 ───────────────────────────────────────── 🌷
+
+</div>
+
+
